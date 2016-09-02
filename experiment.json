@@ -1,0 +1,14 @@
+{
+    "type": "experiment",
+    "short-name": "ndarray",
+    "dependencies": [
+        "https://github.com/elavoie/backprop-benchmark.git",
+        "https://github.com/Sable/ostrich-browserify-compiler.git",
+        "https://github.com/Sable/ostrich-node-environment.git"
+    ],
+    "compatibilities": [
+        "https://github.com/Sable/ostrich-chrome-environment.git",
+        "https://github.com/Sable/ostrich-safari-environment.git",
+        "https://github.com/Sable/ostrich-firefox-environment.git"
+    ]
+}
